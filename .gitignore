@@ -1,0 +1,8 @@
+node_modules/*
+/.tmp/*
+/dist/
+/video/
+/mov/
+/w3cErrors/
+*.mp3
+*.mp4
