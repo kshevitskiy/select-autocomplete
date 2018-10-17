@@ -1,6 +1,6 @@
 ## Select
 
-Select autocomplete is a tiny jQuery and CSS plugin with autocomplete feature and mobile native select fallback.
+Select autocomplete is a tiny jQuery plugin with autocomplete feature and mobile native select fallback.
 
 
 ## Setup
